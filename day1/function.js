@@ -21,9 +21,9 @@ console.log(5===5); // Output: true
 console.log(5==="5"); // Output: false
 console.log(5=="25"); // Output: false
 console.log(1==true) // Output: true
-console.log(0==false) // Output: true
+console.log(0==false) // Output: true 
 
-//Comparison Operators More
+//Comparison Operators More 
 console.log(5 > 3); // Output: true
 console.log(6 < 7); // Output: true
 console.log(9 > 9); // Output: false
